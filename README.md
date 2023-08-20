@@ -1,6 +1,7 @@
 ### Hello, friend!👋 
 ![X-Men-Evolution-gifs-featuring-Kitty-Pryde-Shadowcat-x-men-40329704-450-338](https://github.com/AneSena12/AneSena12/assets/140628944/a84295c0-2053-40ed-b361-f2da80619a4d)
 
+🔭 I’m currently learning Front-end web development, Javascript, HTML/CSS, UX/UI, React, Web Services - Client.
 
 
 <!--

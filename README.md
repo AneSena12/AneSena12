@@ -6,7 +6,7 @@ Hello, Friend!
 ![X-Men-Evolution-gifs-featuring-Kitty-Pryde-Shadowcat-x-men-40329704-450-338](https://github.com/AneSena12/AneSena12/assets/140628944/a84295c0-2053-40ed-b361-f2da80619a4d)
 
 ## Hard Skills
-I’m currently learning Front-end web development:
+I’m currently learning:
 
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)

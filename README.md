@@ -29,7 +29,7 @@ I’m currently learning:
 
 [![LinkedIn](https://img.shields.io/badge/Linkedin-blue)](https://www.linkedin.com/in/thayane-sena-de-moura-633193177/)
 [![Perfil DIO](https://img.shields.io/badge/DIO/PERFIL-purple)](https://web.dio.me/users/anesmbonny)
-[![GitHub](https://img.shields.io/badge/GitHub-black)](https://github.com/AneSena12)
+
 
 ## GitHub Stats
 
